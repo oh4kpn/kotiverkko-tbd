@@ -6,7 +6,7 @@
 | DNA | WAN 1 | Port 1 |
 | Elisa | WAN 2 | Port 2 |
 | Telia | WAN 3 | Port 3 |
-| Starlink | WAN 4 | Port 4 |
+| Starlink | WAN 4 | Port 4 |
 
 ---
 
