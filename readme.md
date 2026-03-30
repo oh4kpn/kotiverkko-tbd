@@ -6,6 +6,7 @@
 | DNA | WAN 1 | Port 1 |
 | Elisa | WAN 2 | Port 2 |
 | Telia | WAN 3 | Port 3 |
+| Starlink | WAN 4 | Port 4 |
 
 ---
 
@@ -15,6 +16,7 @@
 | 1 | WAN 1 (DNA) 2.5GbE  |
 | 2 | WAN 2 (Elisa) 2.5GbE |
 | 3 | WAN 3 (Telia) 2.5GbE  |
+[ 4 | WAN 4 (Starlink TBD |
 | 5 | Trunk → Vintti-8 2.5GbE  |
 
 ---
